@@ -1,5 +1,5 @@
 {
-  "name": "@thompson-mcdonald/create-verlay-app",
+  "name": "create-verlay-app",
   "version": "1.0.1",
   "description": "One command setup for new sites",
   "main": "src/index.js",
