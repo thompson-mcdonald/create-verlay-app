@@ -1,10 +1,9 @@
 {
   "name": "create-verlay-app",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "One command setup for new sites",
   "main": "src/index.js",
   "bin": {
-    "@thompson-mcdonald/create-verlay-app": "src/index.js",
     "create-verlay-app": "src/index.js"
   },
   "publishConfig": {
