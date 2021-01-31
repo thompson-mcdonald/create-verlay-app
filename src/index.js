@@ -8,4 +8,4 @@ if (process.argv.length <= 2) {
 }
 
 shell.exec(`mkdir ${myArgs[0]} && cd ${myArgs[0]}`)
-shell.exec(`git clone git@github.com:thompson-mcdonald/verlay001.git ${myArgs[0]} && cd ${myArgs[0]} && rm -rf .git && git init`)
+shell.exec(`git clone git@github.com:jeffmanful/verlay002.git ${myArgs[0]} && cd ${myArgs[0]} && rm -rf .git && git init`)
